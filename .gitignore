@@ -1,0 +1,10 @@
+bin/aparelho/Iphone.class
+.vscode/settings.json
+bin/estabelecimento/Fabrica.class
+README.md
+bin/internet/Internet.class
+bin/internet/NavegadorInternet.class
+bin/musica/IPod.class
+bin/musica/ReprodutorMusical.class
+bin/telefone/AparelhoTelefonico.class
+bin/telefone/Telefone.class
