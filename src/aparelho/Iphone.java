@@ -7,15 +7,15 @@ import telefone.AparelhoTelefonico;
 public class Iphone implements NavegadorInternet, ReprodutorMusical, AparelhoTelefonico {
 
     public void adicionarNovaAba() {
-        System.out.println("Adicionando nova aba em iphone");
+        System.out.println("Adicionando nova aba em Iphone");
     }
 
     public void exibirPagina() {
-        System.out.println("Exibindo nova página em iphone");
+        System.out.println("Exibindo nova página em Iphone");
     }
 
     public void atualizarPagina() {
-        System.out.println("Atualizando página em iphone");
+        System.out.println("Atualizando página em Iphone");
     }
 
     public void pausarMusica() {
